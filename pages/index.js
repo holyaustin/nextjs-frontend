@@ -18,7 +18,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Next.js</a> Admin Dashboard Engine
         </h1>
 
-        <p className={styles.description}>This dashboard admin engine makes it easy for all your freelance clients to easily edit page content in your next.js apps and only takes a few minutest to set up!  Be sure to check out the <a href="https://github.com/Conner1115/next-admi">github repo</a> for instructions to add it to your app.</p>
+        <p className={styles.description}>This dashboard admin engine makes it easy for all your freelance clients to easily edit page content in your next.js apps and only takes a few minutest to set up!  Be sure to check out the <a href="https://github.com/holyaustin/nextjs-frontend">github repo</a> for instructions to add it to your app.</p>
 
         <p className={styles.description}>Feel free to edit all the content on the <Link href="/playground">Playground Page</Link>, but please keep it clean.</p>
 
